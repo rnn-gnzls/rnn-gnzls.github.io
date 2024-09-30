@@ -1,2 +1,2 @@
 # rnn-gnzls.github.io
-# essay pero di essay
+essay pero di essay
